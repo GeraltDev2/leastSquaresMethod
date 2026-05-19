@@ -64,4 +64,4 @@ db =
 # Issues
 
 There are no known issues.
-The main method has been tested and is working whilst the y=bx method has not, though it probably works.
+The main method has been tested and is working whilst the y=bx method has not, though it should theoretically work.
