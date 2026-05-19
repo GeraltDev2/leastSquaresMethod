@@ -1,4 +1,4 @@
-<h1 align="center">Least Squares Approximation</h1>
+<h1 align="center">Least Squares Function Approximation</h1>
 
 
 A method for approximating the best line corresponding to experimental data X and Y in the form of y=a+b*x and a seperate method for the special case of a=0 thus y=b*x.
